@@ -17,16 +17,7 @@
 
 
 
-
-## 🐍 A Snake Eating my Contributions Graph
-
-![snake animation](https://github.com/<seu allangomez72>/<seu allangomez72>/blob/output/github-contribution-grid-snake2.svg)
-
- 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-<!--
+## In process more...
 **allangomez72/allangomez72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

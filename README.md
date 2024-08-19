@@ -13,8 +13,6 @@
 - :thinking: I’m currently open for a new `job opportunity`.
 - 🗺️: Leaving the `world` better than we found it.
 
-<br>
-
 ###
 
 <div align="center">

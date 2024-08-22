@@ -16,8 +16,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allangomez72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allangomez72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=allangomez72&theme=gotham&show_icons=true&hide_border=false&count_private=true" style="width: 45%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allangomez72&theme=gotham&show_icons=true&hide_border=false&layout=compact" style="width: 34%;"/>
+  </div>
 </div>
 
 ###

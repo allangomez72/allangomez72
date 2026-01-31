@@ -1,6 +1,12 @@
-<h1 align="center">Hi , I'm Allan Gómez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Allan%20Gómez&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20Networks&descAlign=50&descAlignY=55" alt="Header" width="100%"/>
+</div>
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+%26+DevOps+Enthusiast;Software+Engineering+Student;Kubernetes+%26+Docker+Fan;Always+Automating+Things&font=Fira%20Code&center=true&width=500&height=50&color=336699&vCenter=true&size=25" alt="Typing SVG" />
+  </a>
+
+  <br/>
   
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
@@ -12,46 +18,41 @@
 - :thinking: I’m currently open for a new `job opportunity`.
 - 🗺️: Leaving the `world` better than we found it.
 ## In process more...
-<br><br>
-###
+<br>
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=allangomez72&theme=gotham&show_icons=true&hide_border=false&count_private=true" style="width: 45%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allangomez72&theme=gotham&show_icons=true&hide_border=false&layout=compact" style="width: 34%;"/>
-  </div>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
+  <table border="0">
+    <tr>
+      <td align="center" width="50%" style="vertical-align:top;">
+        <h3>☁️ Cloud & Infra</h3>
+        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux&theme=dark" />
+        <br/><br/>
+      </td>
+      <td align="center" width="50%" style="vertical-align:top;">
+        <h3>⚙️ Backend</h3>
+        <img src="https://skillicons.dev/icons?i=go,python,java,c&theme=dark" />
+        <br/><br/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="vertical-align:top;">
+        <h3>🗄️ Databases</h3>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+        <br/><br/>
+      </td>
+      <td align="center" width="50%" style="vertical-align:top;">
+        <h3>🎨 Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" />
+        <br/><br/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h3>🛠️ Tools & Terminal</h3>
+        <img src="https://skillicons.dev/icons?i=git,bash,vscode,idea,postman&theme=dark" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
